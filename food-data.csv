@@ -1,0 +1,346 @@
+date,day,event,menu-id,menu,diet,flavor_profile,calorielevel-per-100gm,headcount,served-qty,consumed-qty
+03-04-2023,Monday,breakfast,id,idli,Vegeterian,bland,30,15,35,12
+03-04-2023,Monday,breakfast,bg,boiled egg,Non-Vegeterian,bland,30,15,15,15
+03-04-2023,Monday,lunch,cc,Chicken curry,Non-Vegeterian,spicy,90,15,15,15
+03-04-2023,Monday,lunch,vb,veg biriyani,Vegeterian,spicy,85,15,30,25
+03-04-2023,Monday,lunch,ch,Chappati,Vegeterian,bland,20,15,30,15
+03-04-2023,Monday,lunch,vm,Veg meals,Vegeterian,spicy,120,15,20,15
+03-04-2023,Monday,lunch,kh,Kheer,Vegeterian,sweet,80,15,15,15
+03-04-2023,Monday,snacks,sm,Samosa,Vegeterian,spicy,40,15,25,15
+04-04-2023,Tuesday,breakfast,rid,rawa idli,Vegeterian,spicy,30,25,30,20
+04-04-2023,Tuesday,breakfast,bg,boiled egg,Non-Vegeterian,bland,30,25,15,15
+04-04-2023,Tuesday,lunch,vb,Jeera rice,Vegeterian,spicy,90,25,20,20
+04-04-2023,Tuesday,lunch,ch,Chappati,Vegeterian,bland,20,25,30,25
+04-04-2023,Tuesday,lunch,vm,Veg meals,Vegeterian,spicy,80,25,30,15
+04-04-2023,Tuesday,lunch,kh,Rosgulla,Vegeterian,sweet,70,25,30,25
+04-04-2023,Tuesday,snacks,cbn,Curry bun,Vegeterian,spicy,40,25,35,15
+05-04-2023,Wednesday,breakfast,rid,poori,Vegeterian,bland,80,35,50,20
+05-04-2023,Wednesday,breakfast,bg,boiled egg,Non-Vegeterian,bland,50,35,15,15
+05-04-2023,Wednesday,lunch,cb, Chicken Biryani,Non-Vegeterian,spicy,140,35,40,35
+05-04-2023,Wednesday,lunch,vp,Veg pulav,Vegeterian,spicy,85,35,30,25
+05-04-2023,Wednesday,lunch,ch,Chappati,Vegeterian,bland,20,35,40,35
+05-04-2023,Wednesday,lunch,vm,Veg meals,Vegeterian,spicy,120,35,40,30
+05-04-2023,Wednesday,lunch,gj,Gulab jamun,Vegeterian,sweet,80,35,30,25
+05-04-2023,Wednesday,snacks,ep,egg Puff,Non-Vegeterian,spicy,40,35,35,15
+05-04-2023,Wednesday,snacks,cp,Puff,Vegeterian,spicy,30,35,20,15
+06-04-2023,Thursday,breakfast,id,idli,Vegeterian,bland,30,30,50,20
+06-04-2023,Thursday,breakfast,id,Vada,Vegeterian,bland,50,30,15,15
+06-04-2023,Thursday,breakfast,bg,boiled egg,Non-Vegeterian,bland,30,30,40,35
+06-04-2023,Thursday,lunch,cc,Chicken curry,Non-Vegeterian,spicy,90,30,30,25
+06-04-2023,Thursday,lunch,vb,Puliogere,Vegeterian,spicy,80,30,40,35
+06-04-2023,Thursday,lunch,ch,Chappati,Vegeterian,bland,20,30,40,30
+06-04-2023,Thursday,lunch,vm,Veg meals,Vegeterian,spicy,120,30,30,25
+06-04-2023,Thursday,lunch,fs,Fruit salad,Vegeterian,sweet,60,30,35,15
+06-04-2023,Thursday,snacks,sm,Samosa,Vegeterian,spicy,30,30,20,15
+07-04-2023,Friday,breakfast,tid,thatte idli,Vegeterian,bland,30,15,50,20
+07-04-2023,Friday,breakfast,bg,boiled egg,Non-Vegeterian,bland,30,15,15,15
+07-04-2023,Friday,lunch,cb,Chicken biriyani,Non-Vegeterian,spicy,120,15,40,35
+07-04-2023,Friday,lunch,vf,Veg fried rice,Vegeterian,bland,90,15,30,25
+07-04-2023,Friday,lunch,ch,Chappati,Vegeterian,bland,20,15,40,35
+07-04-2023,Friday,lunch,vm,Veg meals,Vegeterian,spicy,20,15,40,30
+07-04-2023,Friday,lunch,fs,Fruit salad,Vegeterian,sweet,40,15,30,25
+07-04-2023,Friday,snacks,cbn,Curry bun,Vegeterian,spicy,40,15,35,15
+10-04-2023,Monday,breakfast,ms,masala dosa,Vegeterian,bland,30,15,35,12
+10-04-2023,Monday,breakfast,bg,boiled egg,Non-Vegeterian,bland,30,15,15,15
+10-04-2023,Monday,lunch,cc,Chicken curry,Non-Vegeterian,spicy,90,15,15,15
+10-04-2023,Monday,lunch,vb,veg biriyani,Vegeterian,spicy,85,15,30,25
+10-04-2023,Monday,lunch,ch,Chappati,Vegeterian,bland,20,15,30,15
+10-04-2023,Monday,lunch,vm,Veg meals,Vegeterian,spicy,120,15,20,15
+10-04-2023,Monday,lunch,kh,Kheer,Vegeterian,sweet,80,15,15,15
+10-04-2023,Monday,snacks,sm,Samosa,Vegeterian,spicy,40,15,25,15
+11-04-2023,Tuesday,breakfast,rid,rawa idli,Vegeterian,spicy,30,25,30,20
+11-04-2023,Tuesday,breakfast,bg,boiled egg,Non-Vegeterian,bland,30,25,15,15
+11-04-2023,Tuesday,lunch,vb,Jeera rice,Vegeterian,spicy,90,25,20,20
+11-04-2023,Tuesday,lunch,ch,Chappati,Vegeterian,bland,20,25,30,25
+11-04-2023,Tuesday,lunch,vm,Veg meals,Vegeterian,spicy,80,25,30,15
+11-04-2023,Tuesday,lunch,kh,Rosgulla,Vegeterian,sweet,70,25,30,25
+11-04-2023,Tuesday,snacks,cbn,Curry bun,Vegeterian,spicy,40,25,35,15
+12-04-2023,Wednesday,breakfast,rid,poori,Vegeterian,bland,80,35,50,20
+12-04-2023,Wednesday,breakfast,bg,boiled egg,Non-Vegeterian,bland,50,35,15,15
+12-04-2023,Wednesday,lunch,cb, Chicken Biryani,Non-Vegeterian,spicy,140,35,40,35
+12-04-2023,Wednesday,lunch,vp,Veg pulav,Vegeterian,spicy,85,35,30,25
+12-04-2023,Wednesday,lunch,ch,Chappati,Vegeterian,bland,20,35,40,35
+12-04-2023,Wednesday,lunch,vm,Veg meals,Vegeterian,spicy,120,35,40,30
+12-04-2023,Wednesday,lunch,gj,Gulab jamun,Vegeterian,sweet,80,35,30,25
+12-04-2023,Wednesday,snacks,ep,egg Puff,Non-Vegeterian,spicy,40,35,35,15
+13-04-2023,Thursday,breakfast,id,idli,Vegeterian,bland,30,30,50,20
+13-04-2023,Thursday,breakfast,id,Vada,Vegeterian,bland,50,30,15,15
+13-04-2023,Thursday,breakfast,bg,boiled egg,Non-Vegeterian,bland,30,30,40,35
+13-04-2023,Thursday,lunch,cc,Chicken curry,Non-Vegeterian,spicy,90,30,30,25
+13-04-2023,Thursday,lunch,vb,Puliogere,Vegeterian,spicy,80,30,40,35
+13-04-2023,Thursday,lunch,ch,Chappati,Vegeterian,bland,20,30,40,30
+13-04-2023,Thursday,lunch,vm,Veg meals,Vegeterian,spicy,120,30,30,25
+14-04-2023,Friday,breakfast,ms,masala dosa,Vegeterian,bland,30,15,50,20
+14-04-2023,Friday,breakfast,bg,boiled egg,Non-Vegeterian,bland,30,15,15,15
+14-04-2023,Friday,lunch,cb,Chicken biriyani,Non-Vegeterian,spicy,120,15,40,35
+14-04-2023,Friday,lunch,vf,Veg fried rice,Vegeterian,bland,90,15,30,25
+14-04-2023,Friday,lunch,ch,Chappati,Vegeterian,bland,20,15,40,35
+14-04-2023,Friday,lunch,vm,Veg meals,Vegeterian,spicy,20,15,40,30
+14-04-2023,Friday,lunch,fs,Fruit salad,Vegeterian,sweet,40,15,30,25
+14-04-2023,Friday,snacks,cbn,Curry bun,Vegeterian,spicy,40,15,35,15
+17-04-2023,Monday,breakfast,id,idli,Vegeterian,bland,30,15,35,18
+17-04-2023,Monday,breakfast,bg,boiled egg,Non-Vegeterian,bland,30,15,15,15
+17-04-2023,Monday,lunch,cc,Chicken curry,Non-Vegeterian,spicy,90,15,15,15
+17-04-2023,Monday,lunch,vb,veg biriyani,Vegeterian,spicy,85,15,30,25
+17-04-2023,Monday,lunch,ch,Chappati,Vegeterian,bland,20,15,30,15
+17-04-2023,Monday,lunch,vm,Veg meals,Vegeterian,spicy,120,15,20,15
+17-04-2023,Monday,lunch,kh,Kheer,Vegeterian,sweet,80,15,15,15
+17-04-2023,Monday,snacks,sm,Samosa,Vegeterian,spicy,40,15,25,15
+18-04-2023,Tuesday,breakfast,rid,rawa idli,Vegeterian,spicy,30,25,30,20
+18-04-2023,Tuesday,breakfast,bg,boiled egg,Non-Vegeterian,bland,30,25,15,15
+18-04-2023,Tuesday,lunch,vb,Jeera rice,Vegeterian,spicy,90,25,20,20
+18-04-2023,Tuesday,lunch,ch,Chappati,Vegeterian,bland,20,25,30,25
+18-04-2023,Tuesday,lunch,vm,Veg meals,Vegeterian,spicy,80,25,30,15
+18-04-2023,Tuesday,lunch,kh,Rosgulla,Vegeterian,sweet,70,25,30,25
+18-04-2023,Tuesday,snacks,cbn,Curry bun,Vegeterian,spicy,40,25,35,15
+19-04-2023,Wednesday,breakfast,rid,poori,Vegeterian,bland,80,35,50,20
+19-04-2023,Wednesday,breakfast,bg,boiled egg,Non-Vegeterian,bland,50,35,15,15
+19-04-2023,Wednesday,lunch,cb, Chicken Biryani,Non-Vegeterian,spicy,140,35,40,35
+19-04-2023,Wednesday,lunch,vp,Veg pulav,Vegeterian,spicy,85,35,30,25
+19-04-2023,Wednesday,lunch,ch,Chappati,Vegeterian,bland,20,35,40,35
+19-04-2023,Wednesday,lunch,vm,Veg meals,Vegeterian,spicy,120,35,40,30
+19-04-2023,Wednesday,lunch,gj,Gulab jamun,Vegeterian,sweet,80,35,30,25
+19-04-2023,Wednesday,snacks,ep,egg Puff,Non-Vegeterian,spicy,40,35,35,15
+19-04-2023,Wednesday,snacks,cp,Puff,Vegeterian,spicy,30,35,20,15
+20-04-2023,Thursday,breakfast,id,idli,Vegeterian,bland,30,30,50,20
+20-04-2023,Thursday,breakfast,id,Vada,Vegeterian,bland,50,30,15,15
+20-04-2023,Thursday,breakfast,bg,boiled egg,Non-Vegeterian,bland,30,30,40,35
+20-04-2023,Thursday,lunch,cc,Chicken curry,Non-Vegeterian,spicy,90,30,30,25
+20-04-2023,Thursday,lunch,vb,Puliogere,Vegeterian,spicy,80,30,40,35
+20-04-2023,Thursday,lunch,ch,Chappati,Vegeterian,bland,20,30,40,30
+20-04-2023,Thursday,lunch,vm,Veg meals,Vegeterian,spicy,120,30,30,25
+20-04-2023,Thursday,lunch,fs,Fruit salad,Vegeterian,sweet,60,30,35,15
+20-04-2023,Thursday,snacks,sm,Samosa,Vegeterian,spicy,30,30,20,15
+21-04-2023,Friday,breakfast,tid,thatte idli,Vegeterian,bland,30,15,50,20
+21-04-2023,Friday,breakfast,bg,boiled egg,Non-Vegeterian,bland,30,15,15,15
+21-04-2023,Friday,lunch,cb,Chicken biriyani,Non-Vegeterian,spicy,120,15,40,35
+21-04-2023,Friday,lunch,vf,Veg fried rice,Vegeterian,bland,90,15,30,25
+21-04-2023,Friday,lunch,ch,Chappati,Vegeterian,bland,20,15,40,35
+21-04-2023,Friday,lunch,vm,Veg meals,Vegeterian,spicy,20,15,40,30
+21-04-2023,Friday,lunch,fs,Fruit salad,Vegeterian,sweet,40,15,30,25
+21-04-2023,Friday,snacks,cbn,Curry bun,Vegeterian,spicy,40,15,35,15
+24-04-2023,Monday,breakfast,ms,masala dosa,Vegeterian,bland,30,15,35,10
+24-04-2023,Monday,breakfast,bg,boiled egg,Non-Vegeterian,bland,30,15,15,15
+24-04-2023,Monday,lunch,cc,Chicken curry,Non-Vegeterian,spicy,90,15,15,15
+24-04-2023,Monday,lunch,vb,veg biriyani,Vegeterian,spicy,85,15,30,25
+24-04-2023,Monday,lunch,ch,Chappati,Vegeterian,bland,20,15,30,15
+24-04-2023,Monday,lunch,vm,Veg meals,Vegeterian,spicy,120,15,20,15
+24-04-2023,Monday,lunch,kh,Kheer,Vegeterian,sweet,80,15,15,15
+24-04-2023,Monday,snacks,sm,Samosa,Vegeterian,spicy,40,15,25,15
+25-04-2023,Tuesday,breakfast,rid,rawa idli,Vegeterian,spicy,30,25,30,20
+25-04-2023,Tuesday,breakfast,bg,boiled egg,Non-Vegeterian,bland,30,25,15,15
+25-04-2023,Tuesday,lunch,vb,Jeera rice,Vegeterian,spicy,90,25,20,20
+25-04-2023,Tuesday,lunch,ch,Chappati,Vegeterian,bland,20,25,30,25
+25-04-2023,Tuesday,lunch,vm,Veg meals,Vegeterian,spicy,80,25,30,15
+25-04-2023,Tuesday,lunch,kh,Rosgulla,Vegeterian,sweet,70,25,30,25
+25-04-2023,Tuesday,snacks,cbn,Curry bun,Vegeterian,spicy,40,25,35,15
+26-04-2023,Wednesday,breakfast,rid,poori,Vegeterian,bland,80,35,50,20
+26-04-2023,Wednesday,breakfast,bg,boiled egg,Non-Vegeterian,bland,50,35,15,15
+26-04-2023,Wednesday,lunch,cb, Chicken Biryani,Non-Vegeterian,spicy,140,35,40,35
+26-04-2023,Wednesday,lunch,vp,Veg pulav,Vegeterian,spicy,85,35,30,25
+26-04-2023,Wednesday,lunch,ch,Chappati,Vegeterian,bland,20,35,40,35
+26-04-2023,Wednesday,lunch,vm,Veg meals,Vegeterian,spicy,120,35,40,30
+26-04-2023,Wednesday,lunch,gj,Gulab jamun,Vegeterian,sweet,80,35,30,25
+26-04-2023,Wednesday,snacks,ep,egg Puff,Non-Vegeterian,spicy,40,35,35,15
+26-04-2023,Wednesday,snacks,cp,Puff,Vegeterian,spicy,30,35,20,15
+27-04-2023,Thursday,breakfast,id,idli,Vegeterian,bland,30,30,50,20
+27-04-2023,Thursday,breakfast,id,Vada,Vegeterian,bland,50,30,15,15
+27-04-2023,Thursday,breakfast,bg,boiled egg,Non-Vegeterian,bland,30,30,40,35
+27-04-2023,Thursday,lunch,cc,Chicken curry,Non-Vegeterian,spicy,90,30,30,25
+27-04-2023,Thursday,lunch,vb,Puliogere,Vegeterian,spicy,80,30,40,35
+27-04-2023,Thursday,lunch,ch,Chappati,Vegeterian,bland,20,30,40,30
+27-04-2023,Thursday,lunch,vm,Veg meals,Vegeterian,spicy,120,30,30,25
+27-04-2023,Thursday,lunch,fs,Fruit salad,Vegeterian,sweet,60,30,35,15
+27-04-2023,Thursday,snacks,sm,Samosa,Vegeterian,spicy,30,30,20,15
+28-04-2023,Friday,breakfast,tid,thatte idli,Vegeterian,bland,30,15,50,20
+28-04-2023,Friday,breakfast,bg,boiled egg,Non-Vegeterian,bland,30,15,15,15
+28-04-2023,Friday,lunch,cb,Chicken biriyani,Non-Vegeterian,spicy,120,15,40,35
+28-04-2023,Friday,lunch,vf,Veg fried rice,Vegeterian,bland,90,15,30,25
+28-04-2023,Friday,lunch,ch,Chappati,Vegeterian,bland,20,15,40,35
+28-04-2023,Friday,lunch,vm,Veg meals,Vegeterian,spicy,20,15,40,30
+28-04-2023,Friday,lunch,fs,Fruit salad,Vegeterian,sweet,40,15,30,25
+28-04-2023,Friday,snacks,cbn,Curry bun,Vegeterian,spicy,40,15,35,15
+01-05-2023,Monday,breakfast,id,idli,Vegeterian,bland,30,15,35,16
+01-05-2023,Monday,breakfast,bg,boiled egg,Non-Vegeterian,bland,30,15,15,15
+01-05-2023,Monday,lunch,cc,Chicken curry,Non-Vegeterian,spicy,90,15,15,15
+01-05-2023,Monday,lunch,vb,veg biriyani,Vegeterian,spicy,85,15,30,25
+01-05-2023,Monday,lunch,ch,Chappati,Vegeterian,bland,20,15,30,15
+01-05-2023,Monday,lunch,vm,Veg meals,Vegeterian,spicy,120,15,20,15
+01-05-2023,Monday,lunch,kh,Kheer,Vegeterian,sweet,80,15,15,15
+01-05-2023,Monday,snacks,sm,Samosa,Vegeterian,spicy,40,15,25,15
+02-05-2023,Tuesday,breakfast,rid,rawa idli,Vegeterian,spicy,30,25,30,20
+02-05-2023,Tuesday,breakfast,bg,boiled egg,Non-Vegeterian,bland,30,25,15,15
+02-05-2023,Tuesday,lunch,vb,Jeera rice,Vegeterian,spicy,90,25,20,20
+02-05-2023,Tuesday,lunch,ch,Chappati,Vegeterian,bland,20,25,30,25
+02-05-2023,Tuesday,lunch,vm,Veg meals,Vegeterian,spicy,80,25,30,15
+02-05-2023,Tuesday,lunch,kh,Rosgulla,Vegeterian,sweet,70,25,30,25
+02-05-2023,Tuesday,snacks,cbn,Curry bun,Vegeterian,spicy,40,25,35,15
+03-05-2023,Wednesday,breakfast,rid,poori,Vegeterian,bland,80,35,50,20
+03-05-2023,Wednesday,breakfast,bg,boiled egg,Non-Vegeterian,bland,50,35,15,15
+03-05-2023,Wednesday,lunch,cb, Chicken Biryani,Non-Vegeterian,spicy,140,35,40,35
+03-05-2023,Wednesday,lunch,vp,Veg pulav,Vegeterian,spicy,85,35,30,25
+03-05-2023,Wednesday,lunch,ch,Chappati,Vegeterian,bland,20,35,40,35
+03-05-2023,Wednesday,lunch,vm,Veg meals,Vegeterian,spicy,120,35,40,30
+03-05-2023,Wednesday,lunch,gj,Gulab jamun,Vegeterian,sweet,80,35,30,25
+03-05-2023,Wednesday,snacks,ep,egg Puff,Non-Vegeterian,spicy,40,35,35,15
+03-05-2023,Wednesday,snacks,cp,Puff,Vegeterian,spicy,30,35,20,15
+04-05-2023,Thursday,breakfast,id,idli,Vegeterian,bland,30,30,50,20
+04-05-2023,Thursday,breakfast,id,Vada,Vegeterian,bland,50,30,15,15
+04-05-2023,Thursday,breakfast,bg,boiled egg,Non-Vegeterian,bland,30,30,40,35
+04-05-2023,Thursday,lunch,cc,Chicken curry,Non-Vegeterian,spicy,90,30,30,25
+04-05-2023,Thursday,lunch,vb,Puliogere,Vegeterian,spicy,80,30,40,35
+04-05-2023,Thursday,lunch,ch,Chappati,Vegeterian,bland,20,30,40,30
+04-05-2023,Thursday,lunch,vm,Veg meals,Vegeterian,spicy,120,30,30,25
+04-05-2023,Thursday,lunch,fs,Fruit salad,Vegeterian,sweet,60,30,35,15
+04-05-2023,Thursday,snacks,sm,Samosa,Vegeterian,spicy,30,30,20,15
+05-05-2023,Friday,breakfast,tid,thatte idli,Vegeterian,bland,30,15,50,20
+05-05-2023,Friday,breakfast,bg,boiled egg,Non-Vegeterian,bland,30,15,15,15
+05-05-2023,Friday,lunch,cb,Chicken biriyani,Non-Vegeterian,spicy,120,15,40,35
+05-05-2023,Friday,lunch,vf,Veg fried rice,Vegeterian,bland,90,15,30,25
+05-05-2023,Friday,lunch,ch,Chappati,Vegeterian,bland,20,15,40,35
+05-05-2023,Friday,lunch,vm,Veg meals,Vegeterian,spicy,20,15,40,30
+05-05-2023,Friday,lunch,fs,Fruit salad,Vegeterian,sweet,40,15,30,25
+05-05-2023,Friday,snacks,cbn,Curry bun,Vegeterian,spicy,40,15,35,15
+08-05-2023,Monday,breakfast,ms,masala dosa,Vegeterian,bland,30,15,35,12
+08-05-2023,Monday,breakfast,bg,boiled egg,Non-Vegeterian,bland,30,15,15,15
+08-05-2023,Monday,lunch,cc,Chicken curry,Non-Vegeterian,spicy,90,15,15,15
+08-05-2023,Monday,lunch,vb,veg biriyani,Vegeterian,spicy,85,15,30,25
+08-05-2023,Monday,lunch,ch,Chappati,Vegeterian,bland,20,15,30,15
+08-05-2023,Monday,lunch,vm,Veg meals,Vegeterian,spicy,120,15,20,15
+08-05-2023,Monday,lunch,kh,Kheer,Vegeterian,sweet,80,15,15,15
+08-05-2023,Monday,snacks,sm,Samosa,Vegeterian,spicy,40,15,25,15
+09-05-2023,Tuesday,breakfast,rid,rawa idli,Vegeterian,spicy,30,25,30,20
+09-05-2023,Tuesday,breakfast,bg,boiled egg,Non-Vegeterian,bland,30,25,15,15
+09-05-2023,Tuesday,lunch,vb,Jeera rice,Vegeterian,spicy,90,25,20,20
+09-05-2023,Tuesday,lunch,ch,Chappati,Vegeterian,bland,20,25,30,25
+09-05-2023,Tuesday,lunch,vm,Veg meals,Vegeterian,spicy,80,25,30,15
+09-05-2023,Tuesday,lunch,kh,Rosgulla,Vegeterian,sweet,70,25,30,25
+09-05-2023,Tuesday,snacks,cbn,Curry bun,Vegeterian,spicy,40,25,35,15
+10-05-2023,Wednesday,breakfast,rid,poori,Vegeterian,bland,80,35,50,20
+10-05-2023,Wednesday,breakfast,bg,boiled egg,Non-Vegeterian,bland,50,35,15,15
+10-05-2023,Wednesday,lunch,cb, Chicken Biryani,Non-Vegeterian,spicy,140,35,40,35
+10-05-2023,Wednesday,lunch,vp,Veg pulav,Vegeterian,spicy,85,35,30,25
+10-05-2023,Wednesday,lunch,ch,Chappati,Vegeterian,bland,20,35,40,35
+10-05-2023,Wednesday,lunch,vm,Veg meals,Vegeterian,spicy,120,35,40,30
+10-05-2023,Wednesday,lunch,gj,Gulab jamun,Vegeterian,sweet,80,35,30,25
+10-05-2023,Wednesday,snacks,ep,egg Puff,Non-Vegeterian,spicy,40,35,35,15
+11-05-2023,Thursday,breakfast,id,idli,Vegeterian,bland,30,30,50,20
+11-05-2023,Thursday,breakfast,id,Vada,Vegeterian,bland,50,30,15,15
+11-05-2023,Thursday,breakfast,bg,boiled egg,Non-Vegeterian,bland,30,30,40,35
+11-05-2023,Thursday,lunch,cc,Chicken curry,Non-Vegeterian,spicy,90,30,30,25
+11-05-2023,Thursday,lunch,vb,Puliogere,Vegeterian,spicy,80,30,40,35
+11-05-2023,Thursday,lunch,ch,Chappati,Vegeterian,bland,20,30,40,30
+11-05-2023,Thursday,lunch,vm,Veg meals,Vegeterian,spicy,120,30,30,25
+12-05-2023,Friday,breakfast,ms,masala dosa,Vegeterian,bland,30,15,50,20
+12-05-2023,Friday,breakfast,bg,boiled egg,Non-Vegeterian,bland,30,15,15,15
+12-05-2023,Friday,lunch,cb,Chicken biriyani,Non-Vegeterian,spicy,120,15,40,35
+12-05-2023,Friday,lunch,vf,Veg fried rice,Vegeterian,bland,90,15,30,25
+12-05-2023,Friday,lunch,ch,Chappati,Vegeterian,bland,20,15,40,35
+12-05-2023,Friday,lunch,vm,Veg meals,Vegeterian,spicy,20,15,40,30
+12-05-2023,Friday,lunch,fs,Fruit salad,Vegeterian,sweet,40,15,30,25
+12-05-2023,Friday,snacks,cbn,Curry bun,Vegeterian,spicy,40,15,35,15
+15-05-2023,Monday,breakfast,id,idli,Vegeterian,bland,30,15,35,32
+15-05-2023,Monday,breakfast,bg,boiled egg,Non-Vegeterian,bland,30,15,15,15
+15-05-2023,Monday,lunch,cc,Chicken curry,Non-Vegeterian,spicy,90,15,15,15
+15-05-2023,Monday,lunch,vb,veg biriyani,Vegeterian,spicy,85,15,30,25
+15-05-2023,Monday,lunch,ch,Chappati,Vegeterian,bland,20,15,30,15
+15-05-2023,Monday,lunch,vm,Veg meals,Vegeterian,spicy,120,15,20,15
+15-05-2023,Monday,lunch,kh,Kheer,Vegeterian,sweet,80,15,15,15
+15-05-2023,Monday,snacks,sm,Samosa,Vegeterian,spicy,40,15,25,15
+16-05-2023,Tuesday,breakfast,rid,rawa idli,Vegeterian,spicy,30,25,30,20
+16-05-2023,Tuesday,breakfast,bg,boiled egg,Non-Vegeterian,bland,30,25,15,15
+16-05-2023,Tuesday,lunch,vb,Jeera rice,Vegeterian,spicy,90,25,20,20
+16-05-2023,Tuesday,lunch,ch,Chappati,Vegeterian,bland,20,25,30,25
+16-05-2023,Tuesday,lunch,vm,Veg meals,Vegeterian,spicy,80,25,30,15
+16-05-2023,Tuesday,lunch,kh,Rosgulla,Vegeterian,sweet,70,25,30,25
+16-05-2023,Tuesday,snacks,cbn,Curry bun,Vegeterian,spicy,40,25,35,15
+17-05-2023,Wednesday,breakfast,rid,poori,Vegeterian,bland,80,35,50,20
+17-05-2023,Wednesday,breakfast,bg,boiled egg,Non-Vegeterian,bland,50,35,15,15
+17-05-2023,Wednesday,lunch,cb, Chicken Biryani,Non-Vegeterian,spicy,140,35,40,35
+17-05-2023,Wednesday,lunch,vp,Veg pulav,Vegeterian,spicy,85,35,30,25
+17-05-2023,Wednesday,lunch,ch,Chappati,Vegeterian,bland,20,35,40,35
+17-05-2023,Wednesday,lunch,vm,Veg meals,Vegeterian,spicy,120,35,40,30
+17-05-2023,Wednesday,lunch,gj,Gulab jamun,Vegeterian,sweet,80,35,30,25
+17-05-2023,Wednesday,snacks,ep,egg Puff,Non-Vegeterian,spicy,40,35,35,15
+17-05-2023,Wednesday,snacks,cp,Puff,Vegeterian,spicy,30,35,20,15
+17-05-2023,Thursday,breakfast,id,idli,Vegeterian,bland,30,30,50,20
+17-05-2023,Thursday,breakfast,id,Vada,Vegeterian,bland,50,30,15,15
+17-05-2023,Thursday,breakfast,bg,boiled egg,Non-Vegeterian,bland,30,30,40,35
+17-05-2023,Thursday,lunch,cc,Chicken curry,Non-Vegeterian,spicy,90,30,30,25
+17-05-2023,Thursday,lunch,vb,Puliogere,Vegeterian,spicy,80,30,40,35
+17-05-2023,Thursday,lunch,ch,Chappati,Vegeterian,bland,20,30,40,30
+17-05-2023,Thursday,lunch,vm,Veg meals,Vegeterian,spicy,120,30,30,25
+17-05-2023,Thursday,lunch,fs,Fruit salad,Vegeterian,sweet,60,30,35,15
+17-05-2023,Thursday,snacks,sm,Samosa,Vegeterian,spicy,30,30,20,15
+19-05-2023,Friday,breakfast,tid,thatte idli,Vegeterian,bland,30,15,50,20
+19-05-2023,Friday,breakfast,bg,boiled egg,Non-Vegeterian,bland,30,15,15,15
+19-05-2023,Friday,lunch,cb,Chicken biriyani,Non-Vegeterian,spicy,120,15,40,35
+19-05-2023,Friday,lunch,vf,Veg fried rice,Vegeterian,bland,90,15,30,25
+19-05-2023,Friday,lunch,ch,Chappati,Vegeterian,bland,20,15,40,35
+19-05-2023,Friday,lunch,vm,Veg meals,Vegeterian,spicy,20,15,40,30
+19-05-2023,Friday,lunch,fs,Fruit salad,Vegeterian,sweet,40,15,30,25
+19-05-2023,Friday,snacks,cbn,Curry bun,Vegeterian,spicy,40,15,35,15
+22-05-2023,Monday,breakfast,id,idli,Vegeterian,bland,30,15,35,14
+22-05-2023,Monday,breakfast,bg,boiled egg,Non-Vegeterian,bland,30,15,15,15
+22-05-2023,Monday,lunch,cc,Chicken curry,Non-Vegeterian,spicy,90,15,15,15
+22-05-2023,Monday,lunch,vb,veg biriyani,Vegeterian,spicy,85,15,30,25
+22-05-2023,Monday,lunch,ch,Chappati,Vegeterian,bland,20,15,30,15
+22-05-2023,Monday,lunch,vm,Veg meals,Vegeterian,spicy,120,15,20,15
+22-05-2023,Monday,lunch,kh,Kheer,Vegeterian,sweet,80,15,15,15
+22-05-2023,Monday,snacks,sm,Samosa,Vegeterian,spicy,40,15,25,15
+23-05-2023,Tuesday,breakfast,rid,rawa idli,Vegeterian,spicy,30,25,30,20
+23-05-2023,Tuesday,breakfast,bg,boiled egg,Non-Vegeterian,bland,30,25,15,15
+23-05-2023,Tuesday,lunch,vb,Jeera rice,Vegeterian,spicy,90,25,20,20
+23-05-2023,Tuesday,lunch,ch,Chappati,Vegeterian,bland,20,25,30,25
+23-05-2023,Tuesday,lunch,vm,Veg meals,Vegeterian,spicy,80,25,30,15
+23-05-2023,Tuesday,lunch,kh,Rosgulla,Vegeterian,sweet,70,25,30,25
+23-05-2023,Tuesday,snacks,cbn,Curry bun,Vegeterian,spicy,40,25,35,15
+24-05-2023,Wednesday,breakfast,rid,poori,Vegeterian,bland,80,35,50,20
+24-05-2023,Wednesday,breakfast,bg,boiled egg,Non-Vegeterian,bland,50,35,15,15
+24-05-2023,Wednesday,lunch,cb, Chicken Biryani,Non-Vegeterian,spicy,140,35,40,35
+24-05-2023,Wednesday,lunch,vp,Veg pulav,Vegeterian,spicy,85,35,30,25
+24-05-2023,Wednesday,lunch,ch,Chappati,Vegeterian,bland,20,35,40,35
+24-05-2023,Wednesday,lunch,vm,Veg meals,Vegeterian,spicy,120,35,40,30
+24-05-2023,Wednesday,lunch,gj,Gulab jamun,Vegeterian,sweet,80,35,30,25
+24-05-2023,Wednesday,snacks,ep,egg Puff,Non-Vegeterian,spicy,40,35,35,15
+24-05-2023,Wednesday,snacks,cp,Puff,Vegeterian,spicy,30,35,20,15
+25-05-2023,Thursday,breakfast,id,idli,Vegeterian,bland,30,30,50,20
+25-05-2023,Thursday,breakfast,id,Vada,Vegeterian,bland,50,30,15,15
+25-05-2023,Thursday,breakfast,bg,boiled egg,Non-Vegeterian,bland,30,30,40,35
+25-05-2023,Thursday,lunch,cc,Chicken curry,Non-Vegeterian,spicy,90,30,30,25
+25-05-2023,Thursday,lunch,vb,Puliogere,Vegeterian,spicy,80,30,40,35
+25-05-2023,Thursday,lunch,ch,Chappati,Vegeterian,bland,20,30,40,30
+25-05-2023,Thursday,lunch,vm,Veg meals,Vegeterian,spicy,120,30,30,25
+25-05-2023,Thursday,lunch,fs,Fruit salad,Vegeterian,sweet,60,30,35,15
+25-05-2023,Thursday,snacks,sm,Samosa,Vegeterian,spicy,30,30,20,15
+26-05-2023,Friday,breakfast,tid,thatte idli,Vegeterian,bland,30,15,50,20
+26-05-2023,Friday,breakfast,bg,boiled egg,Non-Vegeterian,bland,30,15,15,15
+26-05-2023,Friday,lunch,cb,Chicken biriyani,Non-Vegeterian,spicy,120,15,40,35
+26-05-2023,Friday,lunch,vf,Veg fried rice,Vegeterian,bland,90,15,30,25
+26-05-2023,Friday,lunch,ch,Chappati,Vegeterian,bland,20,15,40,35
+26-05-2023,Friday,lunch,vm,Veg meals,Vegeterian,spicy,20,15,40,30
+26-05-2023,Friday,lunch,fs,Fruit salad,Vegeterian,sweet,40,15,30,25
+26-05-2023,Friday,snacks,cbn,Curry bun,Vegeterian,spicy,40,15,35,15
+29-05-2023,Monday,breakfast,ms,masala dosa,Vegeterian,bland,30,15,35,10
+29-05-2023,Monday,breakfast,bg,boiled egg,Non-Vegeterian,bland,30,15,15,15
+29-05-2023,Monday,lunch,cc,Chicken curry,Non-Vegeterian,spicy,90,15,15,15
+29-05-2023,Monday,lunch,vb,veg biriyani,Vegeterian,spicy,85,15,30,25
+29-05-2023,Monday,lunch,ch,Chappati,Vegeterian,bland,20,15,30,15
+29-05-2023,Monday,lunch,vm,Veg meals,Vegeterian,spicy,120,15,20,15
+29-05-2023,Monday,lunch,kh,Kheer,Vegeterian,sweet,80,15,15,15
+29-05-2023,Monday,snacks,sm,Samosa,Vegeterian,spicy,40,15,25,15
+30-05-2023,Tuesday,breakfast,rid,rawa idli,Vegeterian,spicy,30,25,30,20
+30-05-2023,Tuesday,breakfast,bg,boiled egg,Non-Vegeterian,bland,30,25,15,15
+30-05-2023,Tuesday,lunch,vb,Jeera rice,Vegeterian,spicy,90,25,20,20
+30-05-2023,Tuesday,lunch,ch,Chappati,Vegeterian,bland,20,25,30,25
+30-05-2023,Tuesday,lunch,vm,Veg meals,Vegeterian,spicy,80,25,30,15
+30-05-2023,Tuesday,lunch,kh,Rosgulla,Vegeterian,sweet,70,25,30,25
+30-05-2023,Tuesday,snacks,cbn,Curry bun,Vegeterian,spicy,40,25,35,15
+31-05-2023,Wednesday,breakfast,rid,poori,Vegeterian,bland,80,35,50,20
+31-05-2023,Wednesday,breakfast,bg,boiled egg,Non-Vegeterian,bland,50,35,15,15
+31-05-2023,Wednesday,lunch,cb, Chicken Biryani,Non-Vegeterian,spicy,140,35,40,35
+31-05-2023,Wednesday,lunch,vp,Veg pulav,Vegeterian,spicy,85,35,30,25
+31-05-2023,Wednesday,lunch,ch,Chappati,Vegeterian,bland,20,35,40,35
+31-05-2023,Wednesday,lunch,vm,Veg meals,Vegeterian,spicy,120,35,40,30
+31-05-2023,Wednesday,lunch,gj,Gulab jamun,Vegeterian,sweet,80,35,30,25
+31-05-2023,Wednesday,snacks,ep,egg Puff,Non-Vegeterian,spicy,40,35,35,15
